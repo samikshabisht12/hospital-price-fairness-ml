@@ -1,0 +1,8 @@
+hospital,city,service,price,wait_time,rating
+CityCare,Delhi,X-Ray,1200,30,4.2
+MedPlus,Delhi,X-Ray,2000,45,3.9
+HealthOne,Mumbai,X-Ray,1500,25,4.5
+LifeLine,Mumbai,MRI,5500,60,4.1
+CityCare,Delhi,MRI,4800,55,4.3
+MedPlus,Delhi,Blood Test,500,15,4.0
+HealthOne,Mumbai,Blood Test,450,10,4.6
